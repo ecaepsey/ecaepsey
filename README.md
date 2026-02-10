@@ -21,4 +21,4 @@ Check out my pinned repositories below 👇
 They showcase my approach to architecture, code quality, and modern iOS development.
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: www.linkedin.com/in/yespeace
