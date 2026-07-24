@@ -12,7 +12,7 @@ Senior iOS Engineer with 10+ years of experience building production mobile appl
 - **Languages:** Swift
 - **UI:** SwiftUI, UIKit
 - **Architecture:** MVVM, Clean Architecture
-- **Concurrency:** async/await
+- **Concurrency:** async/await 
 - **Networking:** URLSession, REST APIs
 - **Tools:** Xcode, Git, CI/CD
 
