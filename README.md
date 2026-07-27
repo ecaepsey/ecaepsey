@@ -18,7 +18,7 @@ Senior iOS Engineer with 10+ years of experience building production mobile appl
 
 ## 📌 Selected Projects
 Check out my pinned repositories below 👇  
-They showcase my approach to architecture, code quality, and modern iOS development.  
+They showcase my approach to architecture, code quality, and modern iOS development.   
   
 
 ## 📫 Contact 
