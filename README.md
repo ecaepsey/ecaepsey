@@ -17,7 +17,7 @@ Senior iOS Engineer with 10+ years of experience building production mobile appl
 - **Tools:** Xcode, Git, CI/CD
 
 ## 📌 Selected Projects 
-Check out my pinned repositories below 👇  
+Check out my pinned repositories below 👇   
 They showcase my approach to architecture, code quality, and modern iOS development.   
   
 
