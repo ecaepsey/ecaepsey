@@ -9,7 +9,7 @@ Senior iOS Engineer with 10+ years of experience building production mobile appl
 - 🌍 Open to remote work and relocation 
 
 ## 🛠 Tech Stack     
-- **Languages:** Swift
+- **Languages:** Swift 
 - **UI:** SwiftUI, UIKit 
 - **Architecture:** MVVM, Clean Architecture 
 - **Concurrency:** async/await 
