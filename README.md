@@ -14,7 +14,7 @@ Senior iOS Engineer with 10+ years of experience building production mobile appl
 - **Architecture:** MVVM, Clean Architecture 
 - **Concurrency:** async/await 
 - **Networking:** URLSession, REST APIs
-- **Tools:** Xcode, Git, CI/CD
+- **Tools:** Xcode, Git, CI/CD 
 
 ## 📌 Selected Projects   
 Check out my pinned repositories below 👇   
