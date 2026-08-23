@@ -2,7 +2,7 @@
    
 Senior iOS Engineer with 10+ years of experience building production mobile applications.                                                                                                                                           
  
-## 💼 About me
+## 💼 About me 
 - 📱 iOS Engineer (Swift, SwiftUI, UIKit)         
 - 🏦 Experience in Fintech, Telecom, and large-scale consumer apps  
 - 🧩 Strong focus on clean architecture, stability, and maintainability   
